@@ -31,3 +31,29 @@
 	background: rgba(0,0,0,1.0);
 	text-shadow: 0px 0px 1px #eeb213;
 }
+
+
+/*******estilo chulo*******/
+p{
+	font-size: 18px;
+	text-shadow: 0px 0px 2px #eeb213;
+}
+
+.caja{
+
+    position: relative;
+	font-size: 40px;
+    display: block;
+	text-shadow: 0px 0px 2px #eeb213;
+	height:400px;
+	color: #eeb213;
+	padding: 5px 20px;
+	margin: 2px;
+	background: rgba(0,0,0,0.7);
+	letter-spacing: 1px;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
